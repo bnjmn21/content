@@ -13,11 +13,11 @@ It can be used as a {{domxref("CanvasRenderingContext2D.fillStyle", "fillStyle")
 
 ## Instance properties
 
-_As an opaque object, this has no exposed property._
+_As an opaque object, this has no exposed properties._
 
 ## Instance methods
 
-_There are no inherited method._
+_There are no inherited methods._
 
 - {{domxref("CanvasPattern.setTransform()")}}
   - : Applies a {{domxref("DOMMatrix")}} representing a linear transform to the pattern.
